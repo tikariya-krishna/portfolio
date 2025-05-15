@@ -3,6 +3,7 @@ const Home = () =>{
         <>
             <div>
                 <p>Hello</p>
+                <p>Test</p>
             </div>
         </>
     )
