@@ -3,8 +3,8 @@ const Home = () =>{
     return (
         <>
             <div className="relative w-2/3  m-auto py-20 px-10">
-                <div className="flex items-end gap-3">
-                    <p className="text-8xl text-[rgb(97,64,81)]">hello:</p>
+                <div className="lg:flex lg:items-end gap-3">
+                    <p className="text-8xl text-[rgb(97,64,81)] mb-8 lg:mb-0">hello:</p>
                     <p className="text-xl">I'm a passionate MERN Stack developer with a creative edge, constantly fueled by the desire to learn and grow in the ever-evolving digital world.</p>
                 </div>
                 
